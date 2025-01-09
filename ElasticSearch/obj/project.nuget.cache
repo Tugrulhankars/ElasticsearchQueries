@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpbTcgTQBsmU7bt6UWPe7H8pLl4dJXYzImyq/UED17i/bqJ2WVg7CtzHBbuBc7N7OC9oKxSMO1zj3KdJIUcgnA==",
+  "success": true,
+  "projectFilePath": "C:\\C project\\ElasticSearch\\ElasticSearch\\Elasticsearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karsl\\.nuget\\packages\\elastic.clients.elasticsearch\\8.16.3\\elastic.clients.elasticsearch.8.16.3.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\elastic.transport\\0.5.6\\elastic.transport.0.5.6.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\karsl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
